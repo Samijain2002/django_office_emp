@@ -1,0 +1,21 @@
+
+.sami{
+    width:300px;
+    }
+
+.outer{
+    display:inline-flex;
+    justify-content:center;
+    align-items:flex-start;
+    }
+.boe{
+    border:2px solid black;
+    width:100%;
+    height:100%;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.boe table{
+    margin-bottom: -2px;
+    margin-right:-0.5px;
+}
